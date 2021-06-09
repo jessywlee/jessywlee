@@ -1,4 +1,6 @@
 ### Hi, I'm Jessica. Welcome to my GitHub profile!
+![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin&link=https://www.linkedin.com/in/jessica-lee-50307750/)
+![Medium Badge](http://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&link=https://jessywlee.medium.com/)
 
 <!--
 **jessywlee/jessywlee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
