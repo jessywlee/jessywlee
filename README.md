@@ -1,5 +1,5 @@
 ### Hi, I'm Jessica. Welcome to my GitHub profile!
-[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin)](https://www.linkedin.com/in/jessica-lee-50307750/)
+[![LinkedIn Badge](http://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=linkedin)](https://www.linkedin.com/in/jessywlee/)
 [![Medium Badge](http://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium)](https://jessywlee.medium.com)
 
 <!--
